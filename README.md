@@ -1,1 +1,1 @@
-# bayesianinference
+# Bayesian Inference - PHY250
